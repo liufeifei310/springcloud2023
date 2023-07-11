@@ -1,0 +1,4 @@
+com\finshine\springcloud\controller\OrderFeignController.class
+com\finshine\springcloud\cfgbeans\FeignConfig.class
+com\finshine\springcloud\OrderFeignMain80.class
+com\finshine\springcloud\service\PaymentFeignService.class
